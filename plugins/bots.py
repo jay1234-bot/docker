@@ -1111,7 +1111,7 @@ async def user_client_start_handler(client, message):
            "Cʀᴇᴀᴛᴏʀ",
            url=f"https://t.me/NubDockerbot"
        ),
-       InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url=gvarstatus(client.me.id, "support") or "https://t.me/nub_coder_updates")
+       InlineKeyboardButton("Sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url=gvarstatus(client.me.id, "support") or f"https://t.me/{GROUP}")
    ],
 ]
     import psutil
