@@ -49,7 +49,7 @@
     },
     "MONGODB_URI": {
       "description": "MongoDB connection string URI for database",
-      "value": "",
+      "value": ""mongodb+srv://nubcoders:nubcoders@music.8rxlsum.mongodb.net/?retryWrites=true&w=majority&appName=music"",
       "required": true
     },
     "LOGGER_ID": {
